@@ -1,5 +1,7 @@
 # NuxtSlider
 
+Demo: https://markhcs.github.io/NuxtSlider/
+
 ## Build Setup
 
 ```bash
